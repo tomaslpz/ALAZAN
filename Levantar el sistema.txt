@@ -1,0 +1,4 @@
+cd C:\Users\tomas\Documents\inventory-system\backend
+node app.js
+cd C:\Users\tomas\Documents\inventory-system\frontend
+npm start
